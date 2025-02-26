@@ -11,7 +11,7 @@ The first chapter of the book covers fundamental ideas about Java:
 ☑️ Writing our first "Hello Java!" program <br />
 
 ## 🏋️‍♂️ Exercises ##
-Most exercises in this chapter are theory-based, which I will not be covering in detail. However, there are still some practical ones which I have commited here.
+Most exercises in this chapter are theory-based, which I will not be covering in detail. However, there are still some practical ones which I have committed here.
 <br />
 <br />
 📌 *Note:* The exercise number corresponds to the book's exercise order numbering.
@@ -47,4 +47,4 @@ Here are two selected theory questions with quick answers. At this starting poin
 * * * * *
 ```
 
-🔷 **No. 24**: Write the "Hello World!" program and save it as a Hello.java file. You can use the Eclipe IDE too.
+🔷 **No. 24**: Write the "Hello World!" program and save it as a Hello.java file. You can use the Eclipse IDE too.

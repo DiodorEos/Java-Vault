@@ -1,4 +1,4 @@
-# 🔖 CHAPTER 2 - DATA, VARIABLES AND CALCULATIOS #
+# 🔖 CHAPTER 2 - DATA, VARIABLES AND CALCULATIONS #
 
 ## 👁️‍🗨️ Overview ##
 The second chapter is extensive and covers a lot about variables and math:
@@ -15,7 +15,7 @@ The second chapter is extensive and covers a lot about variables and math:
 This chapter includes multiple types of exercises: theory-based, mathematical operations, simple programming tasks, and a full lab exercise.
 <br />
 ### 🗒️ Theory Questions ###
-I chose three intersting theory questions to answer here:
+I chose three interesting theory questions to answer here:
 <br />
 <details>
   <summary>
@@ -46,7 +46,7 @@ I chose three intersting theory questions to answer here:
 
 🔷 **No. 38**: Convert an input temperature in Fahrenheit to Celsius. <br />
 
-🔷 **No. 39**: Write a program accepts three double variables and prints out: the average, the min, and max. What will happen if, by mistake, you enter 5.4a instead of 5.4? <br />
+🔷 **No. 39**: Write a program accepts three double values and prints out: the average, minimum, and maximum. What will happen if, by mistake, you enter 5.4a instead of 5.4? <br />
 
 🔷 **No. 40**: Calculate the energy (E) using accepted mass (m) with Einstein’s formula E = mc². <br />
 
@@ -55,7 +55,7 @@ I chose three intersting theory questions to answer here:
 🔷 **No. 43**: Write a program that accepts a three-digit number (100-999) and outputs the sum of its digits. <br />
 
 ### 👨‍🔬 Lab Exercise ###
-🛠️ *No. 44*: A ticket vending machine accepts 10 and 5 euro bills, and coins of 2, 1, 0.5, 02, 0.1 euro. The change that gives out are only in 5 euro bills and coins. The user inserts the amount of tickets they need, and the amount of payment they provide. The machine will calculate the change and also, calculate the amount of each type of change it will give out. Write a program that simulates this vending machine. <br />
+🛠️ *No. 44*: A ticket vending machine accepts 10 and 5 euro bills, and coins of 2, 1, 0.5, 02, 0.1 euro. The machine gives change only in 5 euro bills and coins. The user inserts the amount of tickets they need, and the amount of payment they provide. The machine will calculate the change and also, calculate the amount of each type of change it will give out. Write a program that simulates this vending machine. <br />
 <details>
   <summary>
     👣 Coding steps:    
@@ -67,6 +67,6 @@ I chose three intersting theory questions to answer here:
 5. Calculate the change (if any) and save it in an int changes variable that holds the change in cents. Print that on screen. <br />
 6. To calculate the changes follow these instructions: <br />
 a) for the 5 bills, divide the changes variable with 500 and save the result in a numOf5 variable. The integer rest is reassigned to the changes variable. <br />
-b) do the above for for numOf2, numOf1, numOf_50, numOf20 and numOf_10 to find the the changes for the 2 and 1 euro, and 50, 20 and 10 cents as well. <br />
+b) do the above for numOf2, numOf1, numOf_50, numOf20 and numOf_10 to find the the changes for the 2 and 1 euro, and 50, 20 and 10 cents as well. <br />
 7. Print "The changes amount is: " and below that, show the number for 5, 2 and 1 euro, and 50, 20 and 10 cents that correspond to the changes that need to be given to the user.
 </details>
