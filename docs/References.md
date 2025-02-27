@@ -1,21 +1,20 @@
-
 1️⃣ Java Documentation & Tutorials
 
-    🔗 Official Java Docs - https://docs.oracle.com/en/java/
-    🔗 Java Tutorial Network - https://javatutorial.net/
-    🔗 Java Learning - https://dev.java/learn/
+🔗 Official Java Docs - https://docs.oracle.com/en/java/ <br />
+🔗 Java Tutorial Network - https://javatutorial.net/ <br />
+🔗 Java Learning - https://dev.java/learn/ <br />
 
 2️⃣ Books & Courses
 
-    📖 Introduction to Java by Yiogos Lakeas - https://www.klidarithmos.gr/eisagwgh-sthn-java-3e/
-    📖 Introduction to Programming Using Java - https://open.umn.edu/opentextbooks/textbooks/419
-    🎥 Java Programming for Beginners - https://www.youtube.com/watch?v=A74TOX803D0
-    🎥 Full Java Course Beginners-Intermediate - https://www.youtube.com/watch?v=xTtL8E4LzTQ
+📖 Introduction to Java by Yiogos Lakeas - https://www.klidarithmos.gr/eisagwgh-sthn-java-3e/ <br />
+📖 Introduction to Programming Using Java - https://open.umn.edu/opentextbooks/textbooks/419 <br />
+🎥 Java Programming for Beginners - https://www.youtube.com/watch?v=A74TOX803D0 <br />
+🎥 Full Java Course Beginners-Intermediate - https://www.youtube.com/watch?v=xTtL8E4LzTQ <br />
 
 3️⃣ Cheat Sheets
 
-    📝 Java Collections Cheat Sheet - https://introcs.cs.princeton.edu/java/11cheatsheet/
-    📝 Java Big O Notation Tutorial - https://www.finalroundai.com/blog/java-big-o-notation-tutorial-understanding-time-and-space-complexity
+📝 Java Collections Cheat Sheet - https://introcs.cs.princeton.edu/java/11cheatsheet/ <br />
+📝 Java Big O Notation Tutorial - https://www.finalroundai.com/blog/java-big-o-notation-tutorial-understanding-time-and-space-complexity <br />
 
 4️⃣ Important Git Commands
 
@@ -27,4 +26,4 @@
     
 :five: Java Tools
 
-    🔗 JetBrains IntelliJ IDEA - https://www.jetbrains.com/idea/
+🔗 JetBrains IntelliJ IDEA - https://www.jetbrains.com/idea/
